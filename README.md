@@ -13,7 +13,7 @@ The main game is accompanied by a short introductory animation, made using Canva
 
 -To play the game itself, open the index.html page in the "PANG" folder;
 
--Select the desired game-mode (single-player or 2-player coop-play);
+-Click on the desired game-mode (single-player or 2-player coop-play);
 
 -To beat the game, progress through 3 increasingly difficult levels by destroying all spheres on screen by having the playable character(s) fire harpoons at them.
 
