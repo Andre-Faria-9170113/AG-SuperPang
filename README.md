@@ -15,7 +15,7 @@ The main game is accompanied by a short introductory animation, made using Canva
 
 -Click on the desired game-mode (single-player or 2-player coop-play);
 
--To beat the game, progress through 3 increasingly difficult levels by destroying all spheres on screen by having the playable character(s) fire harpoons at them.
+-To beat the game, progress through 3 increasingly difficult levels by destroying all spheres on screen by having the playable character(s) fire harpoons at them, all while avoiding being hit by the spheres, otherwise the player will lose one of his 3 lives, and if he runs out of lives, a Game Over state is triggered.
 
 ## Player Controls
 
